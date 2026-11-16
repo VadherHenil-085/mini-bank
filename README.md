@@ -163,3 +163,7 @@ To run all automated verification tests at any time:
 java MiniBank --test
 ```
 All 14 practical lab modules execute in sequence and print verification logs confirming correct operation.
+
+---
+
+the project is made by D26AIML085
